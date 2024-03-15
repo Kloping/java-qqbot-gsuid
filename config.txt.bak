@@ -1,0 +1,13 @@
+//q.qq.com 下 相关配置项 2024/3/15 q群:794238572
+appid=
+token=
+//可选配置 若需要再群聊中使用则为 必选配置
+secret=
+//私域 公域 选择 0代表私域 1代表公域 2代表公域+群聊 其他代表自定义 intent
+type=0
+//Genshin-bots/gsuid_core 所在服务器 ip
+wss.ip=
+//Genshin-bots/gsuid_core 所在服务器 端口
+wss.port=8765
+//图片bytes转url地址(图片上传地址) 使用群聊必配置项 可使用http://bak0.kloping.top:81/upload-img
+upload.url=
